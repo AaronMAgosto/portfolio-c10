@@ -2,7 +2,7 @@ import { Github } from "react-bootstrap-icons"
 
 export default function Footer() {
 
- const gitHubUrl = 'https://github.com/aaronmagosto/profile-c10'
+ const gitHubUrl = 'https://github.com/aaronmagosto/portfolio-c10'
  const currentYear = new Date().getFullYear()
 
   return (
