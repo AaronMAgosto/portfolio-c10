@@ -4,22 +4,22 @@
   "name": "Tribute",
   "content": "tribute to beloved",
   "website": "http://bocacode.com",
-  "cover": "http://picsum.photos/400/400"
+  "cover": "http://picsum.photos/400/400?random=1"
  },
  {
   "id": 2,
   "name": "Kardishev Scale",
   "content": "its a kardishev scale",
   "website": "http://bocacode.com",
-  "cover": "http://picsum.photos/400/400"
+  "cover": "http://picsum.photos/400/400?random=2"
  },
 
  {
   "id": 3,
   "name": "Blue Night in Seoul",
-  "content": "this is a cock",
+  "content": "this is a clock",
   "website": "http://bocacode.com",
-  "cover": "http://picsum.photos/400/400"
+  "cover": "http://picsum.photos/400/400?random=3"
  },
 
  {
@@ -27,7 +27,7 @@
   "name": "About",
   "content": "this is an about me",
   "website": "http://bocacode.com",
-  "cover": "http://picsum.photos/400/400"
+  "cover": "http://picsum.photos/400/400?random=4"
  },
 
  {
@@ -35,7 +35,7 @@
   "name": "Counter",
   "content": "this is a counter app",
   "website": "http://bocacode.com",
-  "cover": "http://picsum.photos/400/400"
+  "cover": "http://picsum.photos/400/400?random=5"
  },
 
  {
@@ -43,7 +43,7 @@
   "name": "Timber login",
   "content": "react login",
   "website": "http://bocacode.com",
-  "cover": "http://picsum.photos/400/400"
+  "cover": "http://picsum.photos/400/400?random=6"
  },
 
  {
@@ -51,6 +51,6 @@
   "name": "quiz app",
   "content": "electric quiz",
   "website": "http://bocacode.com",
-  "cover": "http://picsum.photos/400/400"
+  "cover": "http://picsum.photos/400/400?random=7"
  }
 ]

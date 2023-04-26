@@ -4,14 +4,14 @@ export default function  GalleryCard ({data: {id,name,content,website,cover}} ) 
 
 
   return (
-    <Col key={id} md={3}>
-    <Card>
+    <Col key={id} md={4}> 
+    <Card className="gallery-card button-effect">
       <figure>
         <a href={website}
         target="_blank"
         rel="noreferrer">
-
         <Card.Img 
+        
         src={cover}/>
         </a>
       </figure>
